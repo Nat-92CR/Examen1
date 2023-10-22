@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/bin/Debug/net7.0/Examen1
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/bin/Debug/net7.0/Examen1.deps.json
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/bin/Debug/net7.0/Examen1.runtimeconfig.json
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/bin/Debug/net7.0/Examen1.dll
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/bin/Debug/net7.0/Examen1.pdb
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.AssemblyInfo.cs
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.dll
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/refint/Examen1.dll
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.pdb
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/Examen1.genruntimeconfig.cache
+/Users/mac/Desktop/Programación 2/Examen 1/Examen1/obj/Debug/net7.0/ref/Examen1.dll
